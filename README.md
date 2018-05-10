@@ -1,4 +1,4 @@
 # HelloWorld
 My Hello
-This is Larry playing with Git.
+This is Larry playing with GitHub.
 Now it is changed.
