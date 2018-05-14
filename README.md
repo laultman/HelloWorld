@@ -1,5 +1,4 @@
 # HelloWorld
 My Hello
-This is Larry playing with Git.
-branch Hello
-Making a new branch file change.
+This is Larry playing with GitHub.
+Now it is changed.
